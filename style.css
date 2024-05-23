@@ -1,0 +1,12 @@
+body {
+    background-image: url("./images/city_background.jpg");
+    background-size: 100% 100%;
+    min-height: 100vh;
+}
+#my-text {
+    color: white;
+}
+
+.container {
+    margin-top: 150px;
+}
